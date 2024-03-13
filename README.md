@@ -1,8 +1,7 @@
-https://www.svgrepo.com/
 
 touch SVG/linkin.svg
 
 git add .
-git commit -m "Mar 13 2024 D"
+git commit -m "Mar 13 2024 E"
 git push origin master
 
