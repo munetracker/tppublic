@@ -10,6 +10,6 @@ touch SVG/linkin.svg
 
 
 git add .
-git commit -m "Dec 3 2024"
+git commit -m "Dec 3 2024 B"
 git push origin master
 
